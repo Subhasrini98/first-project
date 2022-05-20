@@ -20,6 +20,8 @@ public class BrowserLaunch {
 		String t2 = driver.getCurrentUrl();
 		System.out.println(t2);
 		
+		System.out.println("Completed");
+		
 		//driver.quit();
 	}
 
